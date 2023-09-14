@@ -76,9 +76,9 @@ Ini hanya beberapa konsep dasar dalam bahasa pemrograman C#. Untuk memahami baha
 
 Tentu, berikut penjelasan lebih lanjut tentang beberapa aspek sintaksis dalam bahasa pemrograman C#:
 
-1. **Penulisan Kode**: C# adalah bahasa yang case-sensitive, yang berarti bahwa huruf besar dan huruf kecil dianggap berbeda. Misalnya, `nama` dan `Nama` dianggap berbeda.
+8. **Penulisan Kode**: C# adalah bahasa yang case-sensitive, yang berarti bahwa huruf besar dan huruf kecil dianggap berbeda. Misalnya, `nama` dan `Nama` dianggap berbeda.
 
-2. **Komentar**: Anda dapat menambahkan komentar dalam kode C# untuk menjelaskan kode atau memberikan dokumentasi. Komentar tidak akan dijalankan dan hanya digunakan oleh programmer.
+9. **Komentar**: Anda dapat menambahkan komentar dalam kode C# untuk menjelaskan kode atau memberikan dokumentasi. Komentar tidak akan dijalankan dan hanya digunakan oleh programmer.
 
    Contoh:
    ```csharp
@@ -90,9 +90,9 @@ Tentu, berikut penjelasan lebih lanjut tentang beberapa aspek sintaksis dalam ba
    */
    ```
 
-3. **Variabel dan Identifikasi**: Nama variabel di C# harus diawali dengan huruf atau garis bawah (`_`) dan dapat berisi huruf, angka, atau garis bawah. Contohnya, `nama`, `_nilaiAwal`, `umur2`.
+10. **Variabel dan Identifikasi**: Nama variabel di C# harus diawali dengan huruf atau garis bawah (`_`) dan dapat berisi huruf, angka, atau garis bawah. Contohnya, `nama`, `_nilaiAwal`, `umur2`.
 
-4. **Pernyataan Kondisional**: C# mendukung pernyataan kondisional seperti `if`, `else if`, dan `else` untuk mengatur aliran program berdasarkan kondisi tertentu.
+11. **Pernyataan Kondisional**: C# mendukung pernyataan kondisional seperti `if`, `else if`, dan `else` untuk mengatur aliran program berdasarkan kondisi tertentu.
 
    Contoh:
    ```csharp
@@ -111,7 +111,7 @@ Tentu, berikut penjelasan lebih lanjut tentang beberapa aspek sintaksis dalam ba
    }
    ```
 
-5. **Perulangan**: Anda dapat menggunakan perulangan seperti `for`, `while`, dan `do-while` untuk mengulangi sejumlah pernyataan atau kode selama kondisi tertentu terpenuhi.
+12. **Perulangan**: Anda dapat menggunakan perulangan seperti `for`, `while`, dan `do-while` untuk mengulangi sejumlah pernyataan atau kode selama kondisi tertentu terpenuhi.
 
    Contoh:
    ```csharp
@@ -121,7 +121,7 @@ Tentu, berikut penjelasan lebih lanjut tentang beberapa aspek sintaksis dalam ba
    }
    ```
 
-6. **Penulisan String**: Anda dapat menggunakan tanda kutip tunggal (`'`) untuk karakter tunggal dan tanda kutip ganda (`"`) untuk string.
+13. **Penulisan String**: Anda dapat menggunakan tanda kutip tunggal (`'`) untuk karakter tunggal dan tanda kutip ganda (`"`) untuk string.
 
    Contoh:
    ```csharp
@@ -129,7 +129,7 @@ Tentu, berikut penjelasan lebih lanjut tentang beberapa aspek sintaksis dalam ba
    string pesan = "Ini adalah sebuah string.";
    ```
 
-7. **Operator**: C# mendukung berbagai operator seperti aritmatika (+, -, *, /), perbandingan (==, !=, <, >, <=, >=), dan logika (&&, ||, !) untuk melakukan operasi pada data.
+14. **Operator**: C# mendukung berbagai operator seperti aritmatika (+, -, *, /), perbandingan (==, !=, <, >, <=, >=), dan logika (&&, ||, !) untuk melakukan operasi pada data.
 
    Contoh:
    ```csharp
@@ -137,7 +137,7 @@ Tentu, berikut penjelasan lebih lanjut tentang beberapa aspek sintaksis dalam ba
    bool benar = (hasil == 15) && (hasil < 20);
    ```
 
-8. **Penggunaan Titik Koma**: Pernyataan dalam C# biasanya diakhiri dengan titik koma (`;`). Titik koma menandakan akhir dari pernyataan dan memisahkan pernyataan dalam baris yang sama.
+15. **Penggunaan Titik Koma**: Pernyataan dalam C# biasanya diakhiri dengan titik koma (`;`). Titik koma menandakan akhir dari pernyataan dan memisahkan pernyataan dalam baris yang sama.
 
    Contoh:
    ```csharp
