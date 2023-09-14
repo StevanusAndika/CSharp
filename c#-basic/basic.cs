@@ -6,8 +6,9 @@ using System;
 class FiratProgram{
 
     // // 3. Bagian Fungsi yang akan dieksekusi
-    static void Main(String[] args)
+    public static void Main(String[] args)
     {
         // console.writeline untuk menampilkan output
         Console.WriteLine("Belajar c#!");
+    }
     }
