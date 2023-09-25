@@ -1,0 +1,78 @@
+using System;
+
+public class First_Program
+{ 
+    public static void Main(string[] args)
+{
+    Console.WriteLine("****************************************************");
+    Console.WriteLine("|    Tugas Dasar Pemrograman  - Tokoh Buah Segar   |");
+    Console.WriteLine("****************************************************\n");
+    Console.WriteLine("Nama Saya             : Stevanus Andika Galih Setiawan");
+    Console.WriteLine("Tempat, Tanggal Lahir : Jakarta, 06 Februari 2005");
+    Console.WriteLine("Kelas                 : Karyawan | Jumat dan Sabtu ");
+    Console.WriteLine("Fakultas              : Teknik Informatika");
+    Console.WriteLine("Semester              : Semester Satu(1)");
+
+    Console.WriteLine("****************************************************\n");
+    Console.WriteLine("A.Tambah B.Kurang C.Kali D.Bagi");
+    Console.WriteLine("****************************************************\n");
+    Console.WriteLine("Masukkan Pilihan:");
+    char pilihan = Convert.ToChar(Console.ReadLine().ToUpper());
+    Console.WriteLine("****************************************************\n");
+
+    Console.WriteLine("Masukkan Nama Buah Ke-1 : ");
+    string buah1 = Console.ReadLine();
+    Console.WriteLine("Masukkan Jumlah Buah Ke-1(Kg) : ");
+    int qtyBuah1 = Convert.ToInt32(Console.ReadLine());
+
+    Console.WriteLine("Masukkan Nama Buah Ke-2 : ");
+    string buah2 = Console.ReadLine();
+    Console.WriteLine("Masukkan Jumlah Buah Ke-2(Kg): ");
+    int qtyBuah2 = Convert.ToInt32(Console.ReadLine());
+
+    Console.WriteLine("****************************************************\n");
+
+    Console.WriteLine("Nama Buah: " + buah1 + ", Berat: " + qtyBuah1 + " Kg");
+    Console.WriteLine("Nama Buah: " + buah2 + ", Berat: " + qtyBuah2 + " Kg");
+
+    int hasilOperasi = 0;
+
+    if (pilihan == 'A')
+    {
+        hasilOperasi = qtyBuah1 + qtyBuah2;
+    }
+    else if (pilihan == 'B')
+    {
+        hasilOperasi = qtyBuah1 - qtyBuah2;
+    }
+    else if (pilihan == 'C')
+    {
+        hasilOperasi = qtyBuah1 * qtyBuah2;
+    }
+    else if (pilihan == 'D')
+    {
+        if (qtyBuah2 != 0)
+        {
+            hasilOperasi = qtyBuah1 / qtyBuah2;
+        }
+        else
+        {
+            Console.WriteLine("Pembagian oleh nol tidak diizinkan.");
+            return;
+        }
+    }
+    else
+    {
+        Console.WriteLine("Pilihan tidak valid.");
+        return;
+    }
+
+    Console.WriteLine("****************************************************\n");
+
+    Console.WriteLine($"Total Belanja : {hasilOperasi} Kg");
+    Console.WriteLine("****************************************************\n");
+    Console.WriteLine("****************** Terima kasih ********************\n");
+    Console.WriteLine("****************************************************\n");
+}
+}
+
