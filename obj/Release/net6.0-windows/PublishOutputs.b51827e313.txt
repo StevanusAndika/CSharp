@@ -1,5 +1,0 @@
-C:\Users\Stevanus\Desktop\publish\Release\net6.0-windows\publish\Grade.exe
-C:\Users\Stevanus\Desktop\publish\Release\net6.0-windows\publish\Grade.dll
-C:\Users\Stevanus\Desktop\publish\Release\net6.0-windows\publish\Grade.deps.json
-C:\Users\Stevanus\Desktop\publish\Release\net6.0-windows\publish\Grade.runtimeconfig.json
-C:\Users\Stevanus\Desktop\publish\Release\net6.0-windows\publish\Grade.pdb
