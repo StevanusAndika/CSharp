@@ -1,0 +1,14 @@
+C:\Users\steven\Desktop\Merge\bin\Debug\net9.0\Merge.exe
+C:\Users\steven\Desktop\Merge\bin\Debug\net9.0\Merge.deps.json
+C:\Users\steven\Desktop\Merge\bin\Debug\net9.0\Merge.runtimeconfig.json
+C:\Users\steven\Desktop\Merge\bin\Debug\net9.0\Merge.dll
+C:\Users\steven\Desktop\Merge\bin\Debug\net9.0\Merge.pdb
+C:\Users\steven\Desktop\Merge\obj\Debug\net9.0\Merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven\Desktop\Merge\obj\Debug\net9.0\Merge.AssemblyInfoInputs.cache
+C:\Users\steven\Desktop\Merge\obj\Debug\net9.0\Merge.AssemblyInfo.cs
+C:\Users\steven\Desktop\Merge\obj\Debug\net9.0\Merge.csproj.CoreCompileInputs.cache
+C:\Users\steven\Desktop\Merge\obj\Debug\net9.0\Merge.dll
+C:\Users\steven\Desktop\Merge\obj\Debug\net9.0\refint\Merge.dll
+C:\Users\steven\Desktop\Merge\obj\Debug\net9.0\Merge.pdb
+C:\Users\steven\Desktop\Merge\obj\Debug\net9.0\Merge.genruntimeconfig.cache
+C:\Users\steven\Desktop\Merge\obj\Debug\net9.0\ref\Merge.dll

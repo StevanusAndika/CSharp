@@ -1,0 +1,14 @@
+C:\Users\steven\Desktop\bubble sort\obj\Debug\net9.0\bubble sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven\Desktop\bubble sort\obj\Debug\net9.0\bubble sort.AssemblyInfoInputs.cache
+C:\Users\steven\Desktop\bubble sort\obj\Debug\net9.0\bubble sort.AssemblyInfo.cs
+C:\Users\steven\Desktop\bubble sort\obj\Debug\net9.0\bubble sort.csproj.CoreCompileInputs.cache
+C:\Users\steven\Desktop\bubble sort\bin\Debug\net9.0\bubble sort.exe
+C:\Users\steven\Desktop\bubble sort\bin\Debug\net9.0\bubble sort.deps.json
+C:\Users\steven\Desktop\bubble sort\bin\Debug\net9.0\bubble sort.runtimeconfig.json
+C:\Users\steven\Desktop\bubble sort\bin\Debug\net9.0\bubble sort.dll
+C:\Users\steven\Desktop\bubble sort\bin\Debug\net9.0\bubble sort.pdb
+C:\Users\steven\Desktop\bubble sort\obj\Debug\net9.0\bubble sort.dll
+C:\Users\steven\Desktop\bubble sort\obj\Debug\net9.0\refint\bubble sort.dll
+C:\Users\steven\Desktop\bubble sort\obj\Debug\net9.0\bubble sort.pdb
+C:\Users\steven\Desktop\bubble sort\obj\Debug\net9.0\bubble sort.genruntimeconfig.cache
+C:\Users\steven\Desktop\bubble sort\obj\Debug\net9.0\ref\bubble sort.dll
